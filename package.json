@@ -17,3 +17,5 @@
     "nodemon": "^2.0.22"
   }
 }
+
+//created when we install the npm libraries of express, mysql and nodemon
